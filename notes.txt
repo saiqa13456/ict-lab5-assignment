@@ -1,1 +1,2 @@
-Git is a distributed version control system to wor.
+Git is a distributed version control system to work.
+Adding a new summary section to notes on branch.
